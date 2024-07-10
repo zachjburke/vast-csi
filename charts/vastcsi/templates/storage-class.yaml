@@ -1,3 +1,4 @@
+#
 {{/* Generate one or more storage classes from 'storageClasses' section. */}}
 
 {{- if not .Values.storageClasses -}}
